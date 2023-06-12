@@ -1,0 +1,1 @@
+AUTH_USER_MODEL = 'app_name.Model_name'
